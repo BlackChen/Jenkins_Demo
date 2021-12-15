@@ -16,5 +16,7 @@ public class MyConfig {
     public HelloService helloService() {// 这里有了,就不加载starter里面了
         HelloService helloService = new HelloService();
         return helloService;
+
+        // Test1
     }
 }
