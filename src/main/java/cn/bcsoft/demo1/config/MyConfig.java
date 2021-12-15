@@ -17,7 +17,6 @@ public class MyConfig {
         HelloService helloService = new HelloService();
         return helloService;
 
-        // Test5
 
         
         
