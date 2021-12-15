@@ -27,6 +27,6 @@ public class MyConfig {
         
         // Test1
 
-        上
+       
     }
 }
